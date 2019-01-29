@@ -2,8 +2,8 @@
 
 WIP
 
-`
+```sh
 cp production.env .env
 
 npm start
-`
+```
