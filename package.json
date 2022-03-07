@@ -20,6 +20,6 @@
     "graphql-request": "1.8.2"
   },
   "devDependencies": {
-    "dotenv": "13.0.1"
+    "dotenv": "14.3.2"
   }
 }
