@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "fint-get-token": "1.0.5",
-    "graphql-request": "1.8.2"
+    "graphql-request": "3.7.0"
   },
   "devDependencies": {
     "dotenv": "16.0.3"
